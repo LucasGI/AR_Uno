@@ -1,0 +1,15 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-inappbrowser": {
+      "PACKAGE_NAME": "com.cosoftstudios.aruno"
+    }
+  },
+  "dependent_plugins": {}
+}

@@ -1,0 +1,80 @@
+{
+  "_from": "cordova-inappbrowser",
+  "_id": "cordova-inappbrowser@1.0.6",
+  "_inBundle": false,
+  "_integrity": "sha1-p9fd5QvM9WbPA/4XFFniqxLI4/0=",
+  "_location": "/cordova-inappbrowser",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-inappbrowser",
+    "name": "cordova-inappbrowser",
+    "escapedName": "cordova-inappbrowser",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-inappbrowser/-/cordova-inappbrowser-1.0.6.tgz",
+  "_shasum": "a7d7dde50bccf566cf03fe171459e2ab12c8e3fd",
+  "_spec": "cordova-inappbrowser",
+  "_where": "C:\\Users\\STUDENT\\Desktop\\Cosoft Studios\\AR_Uno",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/Prasannaa1991/cordova-inappbrowser/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-inappbrowser",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows",
+      "firefoxos"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova InAppBrowser Plugin",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.1.0"
+    }
+  ],
+  "homepage": "https://github.com/Prasannaa1991/cordova-inappbrowser#readme",
+  "keywords": [
+    "cordova",
+    "in",
+    "app",
+    "browser",
+    "inappbrowser",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-amazon-fireos",
+    "cordova-ubuntu",
+    "cordova-ios",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows8",
+    "cordova-windows",
+    "cordova-firefoxos"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-inappbrowser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prasannaa1991/cordova-inappbrowser.git"
+  },
+  "version": "1.0.6"
+}

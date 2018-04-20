@@ -1,0 +1,10 @@
+{
+  "cordova-inappbrowser": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-inappbrowser"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}

@@ -1,0 +1,40 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "res/xml/config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"InAppBrowser\"><param name=\"android-package\" value=\"org.apache.cordova.inappbrowser.InAppBrowser\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "cordova-inappbrowser": {
+            "PACKAGE_NAME": "com.cosoftstudios.aruno"
+        }
+    },
+    "dependent_plugins": {},
+    "modules": [
+        {
+            "id": "cordova-inappbrowser.inappbrowser",
+            "file": "plugins/cordova-inappbrowser/www/inappbrowser.js",
+            "pluginId": "cordova-inappbrowser",
+            "clobbers": [
+                "cordova.InAppBrowser.open",
+                "window.open"
+            ]
+        }
+    ],
+    "plugin_metadata": {
+        "cordova-inappbrowser": "1.0.6"
+    }
+}
